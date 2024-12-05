@@ -1,0 +1,3 @@
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec08/folder for everything/rec08f/cmake-build-debug/CMakeFiles/rec08f.dir
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec08/folder for everything/rec08f/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec08/folder for everything/rec08f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
