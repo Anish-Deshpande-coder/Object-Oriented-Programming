@@ -1,0 +1,3 @@
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec09_assigning/cmake-build-debug/CMakeFiles/rec09_assigning.dir
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec09_assigning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anish/OneDrive/Documents/OOP/Lab/rec09_assigning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
